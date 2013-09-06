@@ -30,7 +30,7 @@
                use overScrollMode to disable blue boundaries at the top and the bottom of listview
                because it is pull to refresh listview-->
 
-            <org.qii.weiciyuan.support.lib.pulltorefresh.PullToRefreshListView
+            <org.qii.didiao.support.lib.pulltorefresh.PullToRefreshListView
                 android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
                 android:fastScrollEnabled="false"
@@ -94,7 +94,7 @@
         </LinearLayout>
     </LinearLayout>
 
-    <org.qii.weiciyuan.support.lib.SmileyPicker
+    <org.qii.didiao.support.lib.SmileyPicker
         android:id="@+id/smiley_picker"
         android:visibility="gone"
         android:layout_width="fill_parent"

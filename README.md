@@ -2,12 +2,12 @@
 =========
 Sina Weibo Android App, require Android 4.1+, GPL v3 License
 
-<a href="https://play.google.com/store/apps/details?id=org.qii.weiciyuan">
+<a href="https://play.google.com/store/apps/details?id=org.qii.didiao">
   <img alt="Android app on Google Play"
        src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
 
-<a href="https://play.google.com/store/apps/details?id=org.qii.weiciyuan">
+<a href="https://play.google.com/store/apps/details?id=org.qii.didiao">
   <img alt="Google Play"  width="200" height="200"
        src="https://raw.github.com/qii/weiciyuan/slidingmenu/qrcode.png" />
 </a>
